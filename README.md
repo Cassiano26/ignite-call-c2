@@ -1,6 +1,6 @@
 # Ignite-call
 
-A scheduling webpage built using **Next.JS**, **TypeScrip**.
+A scheduling webpage built using **Next.JS**, **TypeScript**.
 
 ## Prerequisites
 
