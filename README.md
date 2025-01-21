@@ -36,6 +36,8 @@ npx prisma studio
 ```bash
 npm run dev
 ```
+## Production app URL
+https://ignite-call-c2.vercel.app/
 
 ## App images
 
